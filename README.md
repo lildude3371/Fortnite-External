@@ -29,10 +29,12 @@ To import a profile, just copy all of the profile data and press **Import**. Mak
 Disable multi-core rendering in your Fortnite video settings.
 
 ### How do I open the menu?
-Press `INSERT`.
+Press `INSERT`.Hack
+
 
 ### How do I unload the cheat?
-Press `END`.
+Press `END
+`.
 
 ## Credits 
 - dex and maddie for their address, hash, module, netvar, pattern, pe, and vmt classes
